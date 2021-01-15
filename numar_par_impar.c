@@ -17,5 +17,5 @@ else
 {
 	printf("Numarul este impar");
 }
-
+return 0;
 }
