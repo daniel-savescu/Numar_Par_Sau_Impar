@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+//Program creat de Daniel Savescu
+//Verificare numar par sau impar
+
 int main(){
 
 int numar;
