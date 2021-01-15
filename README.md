@@ -1,1 +1,1 @@
-# Numar_Par_Sau_Impar
+# Numar_Par_Sau_Impar_In_Limbajul_C
