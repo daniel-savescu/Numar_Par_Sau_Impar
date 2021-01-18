@@ -1,1 +1,1 @@
-#odd or even number  
+# odd or even number using c language
