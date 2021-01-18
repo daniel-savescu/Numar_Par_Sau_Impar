@@ -1,21 +1,18 @@
 #include <stdio.h>
 
-//Program creat de Daniel Savescu
-//Verificare numar par sau impar
-
 int main(){
 
-int numar;
+int number;
 
-printf("Introduce-ti un numar: ");
-scanf("%d", &numar);
+printf("Enter number: ");
+scanf("%d", &number);
 
-if((numar % 2 == 0)){
-	printf("Numarul este par");
+if((number % 2 == 0)){
+	printf("The number is even.");
 }
 else
 {
-	printf("Numarul este impar");
+	printf("The number is odd.");
 }
 return 0;
 }
